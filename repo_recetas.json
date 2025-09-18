@@ -5,266 +5,266 @@
     "etiquetas": ["bocadillo", "pollo", "rápido", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Pan de chapata", "categoria": "pan" },
-      { "nombre": "Queso griego (feta)", "categoria": "lacteos" },
-      { "nombre": "Calabacín", "categoria": "verduras" },
-      { "nombre": "Tomate", "categoria": "verduras" },
-      { "nombre": "Cebolla roja", "categoria": "verduras" },
+      { "nombre": "Pechuga de pollo: 250 g", "categoria": "aves" },
+      { "nombre": "Pan de chapata: 2 unidades", "categoria": "despensa" },
+      { "nombre": "Queso griego (feta): 100 g", "categoria": "lacteos" },
+      { "nombre": "Calabacín: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Tomate: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Cebolla roja: 1½ unidad", "categoria": "verduras" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" },
       { "nombre": "Orégano", "categoria": "especias" }
     ],
-    "instrucciones": "1. Corta el pollo en filetes finos, el calabacín y el tomate en rodajas, y la cebolla en juliana. 2. En una sartén con aceite, cocina el pollo salpimentado hasta que esté dorado. Retira y reserva. 3. En la misma sartén, saltea el calabacín y la cebolla hasta que estén tiernos. 4. Abre los panes, úntalos con un poco de aceite y tuéstalos. 5. Monta el bocadillo: coloca el pollo, el calabacín, la cebolla, el tomate y desmenuza el queso feta por encima. Añade un chorrito de aceite y orégano."
+    [cite_start]"instrucciones": "1. Corta el pollo en filetes finos, el calabacín y el tomate en rodajas, y la cebolla en juliana. [cite: 14] 2. En una sartén con aceite, cocina el pollo salpimentado hasta que esté dorado. [cite_start]Retira y reserva. [cite: 15, 16] 3. [cite_start]En la misma sartén, saltea el calabacín y la cebolla hasta que estén tiernos. [cite: 17] 4. [cite_start]Abre los panes, úntalos con un poco de aceite y tuéstalos. [cite: 18] 5. Monta el bocadillo: coloca el pollo, el calabacín, la cebolla, el tomate y desmenuza el queso feta por encima. [cite_start]Añade un chorrito de aceite y orégano. [cite: 19, 20]"
   },
   {
     "id": 2,
     "nombre": "Pollo Desmechado con Verduras y Arroz (Modificada)",
-    "etiquetas": ["pollo", "arroz", "guiso"],
+    "etiquetas": ["pollo", "arroz", "batch-cooking", "saludable"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Arroz de grano largo", "categoria": "despensa" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Caldo de pollo", "categoria": "despensa" },
-      { "nombre": "Salsa de soja", "categoria": "salsas" },
+      { "nombre": "Pechuga de pollo: 300 g", "categoria": "aves" },
+      { "nombre": "Arroz de grano largo: 150 g", "categoria": "despensa" },
+      { "nombre": "Cebolla: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 2 unidades (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Caldo de pollo: 500 ml", "categoria": "despensa" },
+      { "nombre": "Salsa de soja: 2 cucharadas", "categoria": "salsas" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. En una olla, cocina la pechuga de pollo en el caldo hasta que esté tierna. Retira el pollo, desméchalo con dos tenedores y reserva el caldo. 2. Mientras, cocina el arroz según las instrucciones del paquete. 3. Corta la cebolla y la zanahoria en tiras finas, y los champiñones en láminas. 4. En una sartén grande, saltea las verduras hasta que estén al dente. 5. Añade el pollo desmechado, la salsa de soja y un par de cucharones del caldo de la cocción. Cocina todo junto un par de minutos. 6. Sirve el pollo con verduras sobre una base de arroz."
+    "instrucciones": "1. En una olla, cocina la pechuga de pollo en el caldo hasta que esté tierna. [cite_start]Retira el pollo, desméchalo con dos tenedores y reserva el caldo. [cite: 35, 36] 2. [cite_start]Mientras, cocina el arroz según las instrucciones del paquete. [cite: 37] 3. [cite_start]Corta la cebolla y la zanahoria en tiras finas, y los champiñones en láminas. [cite: 38] 4. [cite_start]En una sartén grande, saltea las verduras hasta que estén al dente. [cite: 39] 5. Añade el pollo desmechado, la salsa de soja y un par de cucharones del caldo de la cocción. [cite_start]Cocina todo junto un par de minutos. [cite: 40, 41] 6. [cite_start]Sirve el pollo con verduras sobre una base de arroz. [cite: 42]"
   },
   {
     "id": 3,
     "nombre": "Cerdo Asiático en Salsa Dulce (Modificada)",
-    "etiquetas": ["cerdo", "asiático", "salsa"],
+    "etiquetas": ["cerdo", "asiático", "arroz", "salteado"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Solomillo de cerdo", "categoria": "carne" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Salsa de soja", "categoria": "salsas" },
-      { "nombre": "Miel", "categoria": "despensa" },
-      { "nombre": "Vinagre de arroz", "categoria": "despensa" },
-      { "nombre": "Jengibre fresco rallado", "categoria": "especias" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Maicena", "categoria": "despensa" },
-      { "nombre": "Brócoli", "categoria": "verduras" },
+      { "nombre": "Solomillo de cerdo: 300 g", "categoria": "carne" },
+      { "nombre": "Zanahoria: 1 unidad (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Salsa de soja: 4 cucharadas", "categoria": "salsas" },
+      { "nombre": "Miel: 2 cucharadas", "categoria": "despensa" },
+      { "nombre": "Vinagre de arroz: 1 cucharada", "categoria": "despensa" },
+      { "nombre": "Jengibre fresco rallado: 1 cucharadita", "categoria": "especias" },
+      { "nombre": "Ajo: 2 dientes picados", "categoria": "especias" },
+      { "nombre": "Maicena: 1 cucharadita", "categoria": "despensa" },
+      { "nombre": "Brócoli: 1 ramillete", "categoria": "verduras" },
       { "nombre": "Arroz para acompañar", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Corta el cerdo en dados y marina con salsa de soja, miel, vinagre, jengibre y ajo. Corta la zanahoria en rodajas finas y los champiñones en cuartos. 2. Cocina el arroz. Hierve o cocina al vapor el brócoli. 3. En un wok, dora el cerdo. Retira. En el mismo wok, saltea la zanahoria y los champiñones. Retira. 4. Vierte la marinada en el wok, añade la maicena disuelta en agua y cocina hasta que espese. 5. Vuelve a incorporar el cerdo y las verduras a la salsa. Sirve con el arroz y el brócoli."
+    "instrucciones": "1. Corta el cerdo en dados y marina con salsa de soja, miel, vinagre, jengibre y ajo. [cite_start]Corta la zanahoria en rodajas finas y los champiñones en cuartos. [cite: 57, 58] 2. Cocina el arroz. [cite_start]Hierve o cocina al vapor el brócoli. [cite: 59] 3. En un wok, dora el cerdo. Retira. En el mismo wok, saltea la zanahoria y los champiñones. [cite_start]Retira. [cite: 60] 4. [cite_start]Vierte la marinada en el wok, añade la maicena disuelta en agua y cocina hasta que espese. [cite: 61] 5. Vuelve a incorporar el cerdo y las verduras a la salsa. [cite_start]Sirve con el arroz y el brócoli. [cite: 62]"
   },
   {
     "id": 4,
     "nombre": "Farfalle con Salmón Ahumado en Salsa de Espinacas (Modificada)",
-    "etiquetas": ["pasta", "salmón", "salsa", "rápido"],
+    "etiquetas": ["pasta", "pescado", "salmón", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pasta Farfalle", "categoria": "despensa" },
-      { "nombre": "Salmón ahumado", "categoria": "pescado" },
-      { "nombre": "Espinacas frescas", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Nata para cocinar", "categoria": "lacteos" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
+      { "nombre": "Pasta Farfalle: 200 g", "categoria": "despensa" },
+      { "nombre": "Salmón ahumado: 150 g", "categoria": "pescado" },
+      { "nombre": "Espinacas frescas: 200 g", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Nata para cocinar: 200 ml", "categoria": "lacteos" },
+      { "nombre": "Cebolla: ½ unidad", "categoria": "verduras" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" },
       { "nombre": "Nuez moscada", "categoria": "especias" }
     ],
-    "instrucciones": "1. Cuece la pasta según las instrucciones del paquete. 2. Pica la cebolla y sofríela en una sartén con aceite. Añade los champiñones laminados y cocina hasta que se doren. 3. Añade las espinacas y cocínalas hasta que reduzcan su tamaño. 4. Agrega la nata, sal, pimienta y una pizca de nuez moscada. Cocina a fuego bajo un par de minutos. 5. Corta el salmón en tiras. 6. Escurre la pasta, mézclala con la salsa y, justo al final, añade el salmón ahumado y remueve con cuidado."
+    "instrucciones": "1. [cite_start]Cuece la pasta según las instrucciones del paquete. [cite: 76] 2. Pica la cebolla y sofríela en una sartén con aceite. [cite_start]Añade los champiñones laminados y cocina hasta que se doren. [cite: 77, 78] 3. [cite_start]Añade las espinacas y cocínalas hasta que reduzcan su tamaño. [cite: 79] 4. Agrega la nata, sal, pimienta y una pizca de nuez moscada. [cite_start]Cocina a fuego bajo un par de minutos. [cite: 80, 81] 5. [cite_start]Corta el salmón en tiras. [cite: 82] 6. [cite_start]Escurre la pasta, mézclala con la salsa y, justo al final, añade el salmón ahumado y remueve con cuidado. [cite: 83]"
   },
   {
     "id": 5,
     "nombre": "Espaguetis al Aglio con Langostinos (Modificada)",
-    "etiquetas": ["pasta", "pescado", "rápido", "ajo"],
+    "etiquetas": ["pasta", "marisco", "rápido", "ajo"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Espaguetis", "categoria": "despensa" },
-      { "nombre": "Langostinos pelados", "categoria": "pescado" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Guindilla", "categoria": "especias" },
+      { "nombre": "Espaguetis: 200 g", "categoria": "despensa" },
+      { "nombre": "Langostinos pelados: 200 g", "categoria": "pescado" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Ajo: 4 dientes", "categoria": "especias" },
+      { "nombre": "Guindilla: 1 (o al gusto)", "categoria": "especias" },
       { "nombre": "Perejil fresco picado", "categoria": "especias" },
       { "nombre": "Aceite de oliva virgen extra", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Cuece los espaguetis según las indicaciones. 2. Mientras, lamina los ajos y los champiñones. En una sartén grande con aceite, dora los ajos y la guindilla. 3. Añade los champiñones y saltéalos hasta que estén hechos. 4. Sube el fuego, añade los langostinos salpimentados y saltéalos 1-2 minutos. 5. Añade la pasta escurrida a la sartén, un poco del agua de cocción y el perejil. Saltea todo junto durante un minuto."
+    "instrucciones": "1. [cite_start]Cuece los espaguetis según las indicaciones. [cite: 96] 2. Mientras, lamina los ajos y los champiñones. [cite_start]En una sartén grande con aceite, dora los ajos y la guindilla. [cite: 97, 98] 3. [cite_start]Añade los champiñones y saltéalos hasta que estén hechos. [cite: 99] 4. [cite_start]Sube el fuego, añade los langostinos salpimentados y saltéalos 1-2 minutos. [cite: 100] 5. Añade la pasta escurrida a la sartén, un poco del agua de cocción y el perejil. [cite_start]Saltea todo junto durante un minuto. [cite: 101, 102]"
   },
   {
     "id": 6,
     "nombre": "Fideos con Verduras y Pollo en Salsa Teriyaki (Modificada)",
-    "etiquetas": ["fideos", "pollo", "asiático", "rápido"],
+    "etiquetas": ["pasta", "pollo", "asiático", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Fideos tipo noodles", "categoria": "despensa" },
-      { "nombre": "Pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Brócoli", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Salsa Teriyaki", "categoria": "salsas" },
+      { "nombre": "Fideos tipo noodles: 200 g", "categoria": "despensa" },
+      { "nombre": "Pechuga de pollo: 250 g", "categoria": "aves" },
+      { "nombre": "Brócoli: 1½ ramillete", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Salsa Teriyaki: 4-5 cucharadas", "categoria": "salsas" },
       { "nombre": "Semillas de sésamo", "categoria": "especias" },
       { "nombre": "Aceite de sésamo o girasol", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Corta el pollo en tiras, la zanahoria en juliana y los champiñones en láminas. 2. Cuece los fideos según las indicaciones del paquete. 3. En un wok o sartén, saltea el pollo hasta que esté dorado. Retira y reserva. 4. En la misma sartén, saltea el brócoli, la zanahoria y los champiñones hasta que estén al dente. 5. Incorpora el pollo, los fideos escurridos y la salsa. Saltea todo junto un par de minutos y sirve con semillas de sésamo por encima."
+    "instrucciones": "1. [cite_start]Corta el pollo en tiras, la zanahoria en juliana y los champiñones en láminas. [cite: 114] 2. [cite_start]Cuece los fideos según las indicaciones del paquete. [cite: 115] 3. En un wok o sartén, saltea el pollo hasta que esté dorado. [cite_start]Retira y reserva. [cite: 116] 4. [cite_start]En la misma sartén, saltea el brócoli, la zanahoria y los champiñones hasta que estén al dente. [cite: 117] 5. Incorpora el pollo, los fideos escurridos y la salsa. [cite_start]Saltea todo junto un par de minutos y sirve con semillas de sésamo por encima. [cite: 118, 119]"
   },
   {
     "id": 7,
     "nombre": "Calamares Fritos al Ajo con Patatas y Salsa de Vino Blanco",
-    "etiquetas": ["pescado", "frito", "rápido"],
+    "etiquetas": ["pescado", "marisco", "frito", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Calamares limpios", "categoria": "pescado" },
-      { "nombre": "Patatas", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Vino blanco", "categoria": "despensa" },
+      { "nombre": "Calamares limpios: 400 g (en anillas)", "categoria": "pescado" },
+      { "nombre": "Patatas: 2 grandes", "categoria": "verduras" },
+      { "nombre": "Ajo: 3 dientes", "categoria": "especias" },
+      { "nombre": "Vino blanco: 100 ml", "categoria": "despensa" },
       { "nombre": "Harina para freír", "categoria": "despensa" },
       { "nombre": "Perejil fresco picado", "categoria": "especias" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
-      { "nombre": "Limón", "categoria": "frutas" }
+      { "nombre": "Limón: 1 gajo", "categoria": "frutas" }
     ],
-    "instrucciones": "1. Pela y corta las patatas en bastones. Fríelas en abundante aceite o en freidora de aire. Sazona y reserva. 2. Seca, sala, enharina y fríe los calamares en tandas cortas. Reserva. 3. En una sartén limpia con aceite, dora los ajos picados. Vierte el vino blanco y deja que reduzca a fuego fuerte. 4. Incorpora los calamares y el perejil, saltea rápidamente y sirve con las patatas y el limón."
+    "instrucciones": "1. Pela y corta las patatas en bastones. Fríelas en abundante aceite o en freidora de aire. [cite_start]Sazona y reserva. [cite: 133] 2. Seca, sala, enharina y fríe los calamares en tandas cortas. [cite_start]Reserva. [cite: 134] 3. En una sartén limpia con aceite, dora los ajos picados. [cite_start]Vierte el vino blanco y deja que reduzca a fuego fuerte. [cite: 135, 136] 4. [cite_start]Incorpora los calamares y el perejil, saltea rápidamente y sirve con las patatas y el limón. [cite: 137]"
   },
   {
     "id": 8,
     "nombre": "Lomo de Cerdo en Salsa Cremosa de Cebolla (Modificada)",
-    "etiquetas": ["cerdo", "salsa"],
+    "etiquetas": ["carne", "cerdo", "salsa", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Filetes de lomo de cerdo", "categoria": "carne" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Nata para cocinar", "categoria": "lacteos" },
-      { "nombre": "Caldo de carne", "categoria": "despensa" },
-      { "nombre": "Vino blanco", "categoria": "despensa" },
+      { "nombre": "Filetes de lomo de cerdo: 350 g", "categoria": "carne" },
+      { "nombre": "Cebolla: 2 unidades grandes", "categoria": "verduras" },
+      { "nombre": "Champiñones: 200 g (*)", "categoria": "verduras" },
+      { "nombre": "Nata para cocinar: 200 ml", "categoria": "lacteos" },
+      { "nombre": "Caldo de carne: 100 ml", "categoria": "despensa" },
+      { "nombre": "Vino blanco: 50 ml", "categoria": "despensa" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Salpimenta y dora los filetes de lomo. Retira y reserva. 2. En la misma sartén, pocha la cebolla en juliana. Añade los champiñones laminados y cocina hasta que estén dorados. 3. Vierte el vino y deja que evapore el alcohol. Añade el caldo y la nata, y cocina hasta que la salsa espese. 4. Vuelve a introducir los filetes de lomo en la sartén y cocina todo junto 2-3 minutos más."
+    "instrucciones": "1. Salpimenta y dora los filetes de lomo. [cite_start]Retira y reserva. [cite: 151] 2. En la misma sartén, pocha la cebolla en juliana. [cite_start]Añade los champiñones laminados y cocina hasta que estén dorados. [cite: 152, 153] 3. Vierte el vino y deja que evapore el alcohol. [cite_start]Añade el caldo y la nata, y cocina hasta que la salsa espese. [cite: 154, 155] 4. [cite_start]Vuelve a introducir los filetes de lomo en la sartén y cocina todo junto 2-3 minutos más. [cite: 156]"
   },
   {
     "id": 9,
     "nombre": "Muslo de Pollo en Salsa Barbacoa Oriental",
-    "etiquetas": ["pollo", "salsa", "asiático"],
+    "etiquetas": ["pollo", "asiático", "salsa", "horno"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Muslos de pollo deshuesados", "categoria": "aves" },
-      { "nombre": "Salsa de soja", "categoria": "salsas" },
-      { "nombre": "Salsa Hoisin", "categoria": "salsas" },
-      { "nombre": "Miel", "categoria": "despensa" },
-      { "nombre": "Vinagre de arroz", "categoria": "despensa" },
+      { "nombre": "Muslos de pollo deshuesados: 4 unidades", "categoria": "aves" },
+      { "nombre": "Salsa de soja: 50 ml", "categoria": "salsas" },
+      { "nombre": "Salsa Hoisin: 2 cucharadas", "categoria": "salsas" },
+      { "nombre": "Miel: 1 cucharada", "categoria": "despensa" },
+      { "nombre": "Vinagre de arroz: 1 cucharada", "categoria": "despensa" },
       { "nombre": "Jengibre fresco rallado", "categoria": "especias" },
       { "nombre": "Ajo rallado", "categoria": "especias" },
       { "nombre": "Arroz para acompañar", "categoria": "despensa" },
       { "nombre": "Brócoli para acompañar", "categoria": "verduras" }
     ],
-    "instrucciones": "1. Mezcla todos los ingredientes de la salsa (soja, hoisin, miel, vinagre, jengibre y ajo). 2. Marina el pollo en la salsa durante al menos 30 minutos. 3. Cocina el pollo en una sartén, al horno o a la parrilla, pintándolo con la marinada restante hasta que esté bien hecho y caramelizado. 4. Sirve con arroz blanco y brócoli al vapor."
+    "instrucciones": "1. [cite_start]Mezcla todos los ingredientes de la salsa (soja, hoisin, miel, vinagre, jengibre y ajo). [cite: 169] 2. [cite_start]Marina el pollo en la salsa durante al menos 30 minutos. [cite: 170] 3. [cite_start]Cocina el pollo en una sartén, al horno o a la parrilla, pintándolo con la marinada restante hasta que esté bien hecho y caramelizado. [cite: 171, 172] 4. [cite_start]Sirve con arroz blanco y brócoli al vapor. [cite: 173]"
   },
   {
     "id": 10,
     "nombre": "Pollo al Limón con Tomillo (Modificada)",
-    "etiquetas": ["pollo", "salsa"],
+    "etiquetas": ["pollo", "limón", "saludable", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pechugas de pollo", "categoria": "aves" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Limón", "categoria": "frutas" },
-      { "nombre": "Tomillo fresco", "categoria": "especias" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Caldo de pollo", "categoria": "despensa" },
+      { "nombre": "Pechugas de pollo: 2 unidades", "categoria": "aves" },
+      { "nombre": "Zanahoria: 1 unidad (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Limón: 1 unidad", "categoria": "frutas" },
+      { "nombre": "Tomillo fresco: varias ramitas", "categoria": "especias" },
+      { "nombre": "Ajo: 2 dientes", "categoria": "especias" },
+      { "nombre": "Caldo de pollo: 100 ml", "categoria": "despensa" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Salpimenta y dora las pechugas en una sartén. Retira y reserva. 2. En la misma sartén, añade el ajo picado, la zanahoria en rodajas y los champiñones en cuartos. Saltea un par de minutos. 3. Vuelve a incorporar el pollo. Añade el tomillo, la ralladura y el zumo de limón, y el caldo. 4. Baja el fuego, tapa y cocina durante 10-15 minutos o hasta que el pollo esté tierno."
+    "instrucciones": "1. Salpimenta y dora las pechugas en una sartén. [cite_start]Retira y reserva. [cite: 187] 2. En la misma sartén, añade el ajo picado, la zanahoria en rodajas y los champiñones en cuartos. [cite_start]Saltea un par de minutos. [cite: 188, 189] 3. Vuelve a incorporar el pollo. [cite_start]Añade el tomillo, la ralladura y el zumo de limón, y el caldo. [cite: 190] 4. [cite_start]Baja el fuego, tapa y cocina durante 10-15 minutos o hasta que el pollo esté tierno. [cite: 191]"
   },
   {
     "id": 11,
     "nombre": "Pollo a la Parmigiana (Modificada)",
-    "etiquetas": ["pollo", "horno", "italiano"],
+    "etiquetas": ["pollo", "horno", "italiano", "queso"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Filetes de pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Pan rallado", "categoria": "despensa" },
-      { "nombre": "Huevo", "categoria": "huevos" },
-      { "nombre": "Salsa de tomate frito", "categoria": "despensa" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Queso mozzarella", "categoria": "lacteos" },
-      { "nombre": "Queso parmesano rallado", "categoria": "lacteos" },
+      { "nombre": "Filetes de pechuga de pollo: 2 grandes", "categoria": "aves" },
+      { "nombre": "Pan rallado: 100 g", "categoria": "despensa" },
+      { "nombre": "Huevo: 1", "categoria": "huevos" },
+      { "nombre": "Salsa de tomate frito: 200 g", "categoria": "salsas" },
+      { "nombre": "Zanahoria: 1½ unidad, muy picada (*)", "categoria": "verduras" },
+      { "nombre": "Queso mozzarella: 150 g", "categoria": "lacteos" },
+      { "nombre": "Queso parmesano rallado: 50 g", "categoria": "lacteos" },
       { "nombre": "Aceite para freír", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Orégano", "categoria": "especias" }
     ],
-    "instrucciones": "1. Pasa los filetes por huevo batido y luego por pan rallado. Fríelos hasta que estén dorados. 2. Mientras, en un cazo, sofríe la zanahoria picada muy fina y mézclala con la salsa de tomate. 3. Coloca los filetes fritos en una fuente para horno. Cubre cada uno con la salsa de tomate y zanahoria. 4. Añade la mozzarella y el parmesano por encima y espolvorea orégano. 5. Gratina en el horno a 200°C hasta que el queso esté derretido y burbujeante."
+    "instrucciones": "1. Pasa los filetes por huevo batido y luego por pan rallado. [cite_start]Fríelos hasta que estén dorados. [cite: 206] 2. [cite_start]Mientras, en un cazo, sofríe la zanahoria picada muy fina y mézclala con la salsa de tomate. [cite: 207] 3. Coloca los filetes fritos en una fuente para horno. [cite_start]Cubre cada uno con la salsa de tomate y zanahoria. [cite: 208] 4. [cite_start]Añade la mozzarella y el parmesano por encima y espolvorea orégano. [cite: 209] 5. [cite_start]Gratina en el horno a 200°C hasta que el queso esté derretido y burbujeante. [cite: 210]"
   },
   {
     "id": 12,
     "nombre": "Piadinas de Jamón Serrano y Dúo de Quesos (Modificada)",
-    "etiquetas": ["piadina", "bocadillo", "rápido", "cena"],
+    "etiquetas": ["piadina", "jamón", "queso", "rápido", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Piadinas", "categoria": "despensa" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Jamón serrano", "categoria": "embutidos" },
-      { "nombre": "Queso mozzarella rallado", "categoria": "lacteos" },
-      { "nombre": "Queso de cabra en rulo", "categoria": "lacteos" },
-      { "nombre": "Rúcula", "categoria": "verduras" },
-      { "nombre": "Tomates cherry", "categoria": "verduras" }
+      { "nombre": "Piadinas: 2 unidades", "categoria": "despensa" },
+      { "nombre": "Champiñones: 100 g (*)", "categoria": "verduras" },
+      { "nombre": "Jamón serrano: 100 g", "categoria": "embutidos" },
+      { "nombre": "Queso mozzarella rallado: 80 g", "categoria": "lacteos" },
+      { "nombre": "Queso de cabra en rulo: 50 g", "categoria": "lacteos" },
+      { "nombre": "Rúcula: un puñado", "categoria": "verduras" },
+      { "nombre": "Tomates cherry: un puñado", "categoria": "verduras" }
     ],
-    "instrucciones": "1. Limpia y lamina los champiñones. Saltéalos en una sartén con un poco de aceite hasta que estén dorados. Reserva. 2. Calienta una piadina en una sartén sin aceite. 3. Cubre la mitad de la piadina con la mozzarella. Cuando empiece a derretirse, añade los champiñones salteados, el jamón, el queso de cabra desmenuzado, los tomates y la rúcula. 4. Dobla la piadina por la mitad, presiona ligeramente y cocina un minuto más por cada lado hasta que esté dorada."
+    "instrucciones": "1. Limpia y lamina los champiñones. Saltéalos en una sartén con un poco de aceite hasta que estén dorados. [cite_start]Reserva. [cite: 222] 2. [cite_start]Calienta una piadina en una sartén sin aceite. [cite: 223] 3. Cubre la mitad de la piadina con la mozzarella. [cite_start]Cuando empiece a derretirse, añade los champiñones salteados, el jamón, el queso de cabra desmenuzado, los tomates y la rúcula. [cite: 224, 225, 226] 4. [cite_start]Dobla la piadina por la mitad, presiona ligeramente y cocina un minuto más por cada lado hasta que esté dorada. [cite: 227]"
   },
   {
     "id": 13,
     "nombre": "Pollo Rebozado con Salsa Casera de Limón",
-    "etiquetas": ["pollo", "frito", "salsa"],
+    "etiquetas": ["pollo", "frito", "limón", "salsa"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pechuga de pollo", "categoria": "aves" },
+      { "nombre": "Pechuga de pollo: 300 g en tiras", "categoria": "aves" },
       { "nombre": "Harina", "categoria": "despensa" },
-      { "nombre": "Huevo", "categoria": "huevos" },
-      { "nombre": "Zumo de limón", "categoria": "frutas" },
-      { "nombre": "Caldo de pollo", "categoria": "despensa" },
-      { "nombre": "Azúcar", "categoria": "despensa" },
-      { "nombre": "Maicena", "categoria": "despensa" }
+      { "nombre": "Huevo: 1-2", "categoria": "huevos" },
+      { "nombre": "Zumo de limón: de 2 limones", "categoria": "frutas" },
+      { "nombre": "Caldo de pollo: 100 ml", "categoria": "despensa" },
+      { "nombre": "Azúcar: 1 cucharada", "categoria": "despensa" },
+      { "nombre": "Maicena: 1 cucharadita", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pasa las tiras de pollo por harina, luego por huevo batido y fríelas en aceite caliente. 2. Para la salsa, calienta en un cazo el zumo de limón, el caldo y el azúcar. 3. Disuelve la maicena en un poco de agua fría, añádela al cazo y remueve hasta que la salsa espese. 4. Sirve el pollo y salsea generosamente por encima."
+    "instrucciones": "1. [cite_start]Pasa las tiras de pollo por harina, luego por huevo batido y fríelas en aceite caliente. [cite: 238] 2. [cite_start]Para la salsa, calienta en un cazo el zumo de limón, el caldo y el azúcar. [cite: 239] 3. [cite_start]Disuelve la maicena en un poco de agua fría, añádela al cazo y remueve hasta que la salsa espese. [cite: 240, 241] 4. [cite_start]Sirve el pollo y salsea generosamente por encima. [cite: 242]"
   },
   {
     "id": 14,
     "nombre": "Quesadillas de Cerdo con Queso de Cabra (Modificada)",
-    "etiquetas": ["quesadilla", "cerdo", "rápido", "cena"],
+    "etiquetas": ["quesadilla", "cerdo", "queso", "rápido", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Carne de cerdo (picada o desmechada)", "categoria": "carne" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Tortillas de trigo", "categoria": "despensa" },
-      { "nombre": "Queso de cabra", "categoria": "lacteos" },
-      { "nombre": "Cebolla pochada o caramelizada", "categoria": "verduras" },
-      { "nombre": "Queso para fundir", "categoria": "lacteos" }
+      { "nombre": "Carne de cerdo (picada o desmechada): 200 g", "categoria": "carne" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Tortillas de trigo: 4 unidades", "categoria": "despensa" },
+      { "nombre": "Queso de cabra: 100 g", "categoria": "lacteos" },
+      { "nombre": "Cebolla pochada o caramelizada: 3 cucharadas", "categoria": "verduras" },
+      { "nombre": "Queso para fundir: 100 g", "categoria": "lacteos" }
     ],
-    "instrucciones": "1. Saltea los champiñones laminados hasta que estén dorados. Reserva. 2. En una sartén, calienta una tortilla. Cubre la mitad con queso para fundir, la carne de cerdo, la cebolla, los champiñones y el queso de cabra desmenuzado. 3. Dobla la tortilla y cocínala por ambos lados hasta que esté dorada y el queso derretido. Repite con las demás."
+    "instrucciones": "1. Saltea los champiñones laminados hasta que estén dorados. [cite_start]Reserva. [cite: 251] 2. En una sartén, calienta una tortilla. [cite_start]Cubre la mitad con queso para fundir, la carne de cerdo, la cebolla, los champiñones y el queso de cabra desmenuzado. [cite: 252] 3. Dobla la tortilla y cocínala por ambos lados hasta que esté dorada y el queso derretido. [cite_start]Repite con las demás. [cite: 253, 254]"
   },
   {
     "id": 15,
     "nombre": "Rigatoni con Chorizo y Queso Gratinado (Modificada)",
-    "etiquetas": ["pasta", "chorizo", "horno", "tradicional"],
+    "etiquetas": ["pasta", "chorizo", "horno", "queso"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Rigatoni", "categoria": "despensa" },
-      { "nombre": "Chorizo fresco", "categoria": "embutidos" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Salsa de tomate", "categoria": "despensa" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Queso rallado para gratinar", "categoria": "lacteos" }
+      { "nombre": "Rigatoni: 200 g", "categoria": "despensa" },
+      { "nombre": "Chorizo fresco: 150 g", "categoria": "embutidos" },
+      { "nombre": "Zanahoria: 1 unidad, muy picada (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g, muy picados (*)", "categoria": "verduras" },
+      { "nombre": "Salsa de tomate: 300 g", "categoria": "salsas" },
+      { "nombre": "Cebolla: ½ unidad", "categoria": "verduras" },
+      { "nombre": "Queso rallado para gratinar: 100 g", "categoria": "lacteos" }
     ],
-    "instrucciones": "1. Cuece la pasta hasta que esté al dente. 2. Sofríe la cebolla, la zanahoria y los champiñones. Añade el chorizo desmenuzado y cocínalo. 3. Incorpora la salsa de tomate y cocina todo junto 5 minutos. 4. Mezcla la pasta con la salsa, colócalo en una fuente para horno, cubre con queso y gratina."
+    "instrucciones": "1. [cite_start]Cuece la pasta hasta que esté al dente. [cite: 265] 2. Sofríe la cebolla, la zanahoria y los champiñones. [cite_start]Añade el chorizo desmenuzado y cocínalo. [cite: 266, 267] 3. [cite_start]Incorpora la salsa de tomate y cocina todo junto 5 minutos. [cite: 268] 4. [cite_start]Mezcla la pasta con la salsa, colócalo en una fuente para horno, cubre con queso y gratina. [cite: 269, 270]"
   },
   {
     "id": 16,
@@ -272,124 +272,124 @@
     "etiquetas": ["pescado", "salmón", "horno", "saludable"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Lomos de salmón", "categoria": "pescado" },
-      { "nombre": "Panko (pan rallado japonés)", "categoria": "despensa" },
-      { "nombre": "Mostaza de Dijon", "categoria": "salsas" },
+      { "nombre": "Lomos de salmón: 2 unidades", "categoria": "pescado" },
+      { "nombre": "Panko (pan rallado japonés): 50 g", "categoria": "despensa" },
+      { "nombre": "Mostaza de Dijon: 2 cucharadas", "categoria": "salsas" },
       { "nombre": "Perejil fresco picado", "categoria": "especias" },
       { "nombre": "Ralladura de limón", "categoria": "frutas" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Precalienta el horno a 200°C. 2. Unta la parte superior de los lomos de salmón con mostaza. 3. Mezcla el panko con el perejil, la ralladura de limón, un chorrito de aceite, sal y pimienta. 4. Cubre el salmón con la mezcla de panko, presionando para que se adhiera. 5. Hornea durante 12-15 minutos."
+    "instrucciones": "1. [cite_start]Precalienta el horno a 200°C. [cite: 282] 2. [cite_start]Unta la parte superior de los lomos de salmón con mostaza. [cite: 283] 3. [cite_start]Mezcla el panko con el perejil, la ralladura de limón, un chorrito de aceite, sal y pimienta. [cite: 284] 4. Cubre el salmón con la mezcla de panko, presionando para que se adhiera. 5. [cite_start]Hornea durante 12-15 minutos. [cite: 285]"
   },
   {
     "id": 17,
     "nombre": "Salmón al Horno con Vinagreta de Miel (Modificada)",
-    "etiquetas": ["pescado", "salmón", "horno", "saludable"],
+    "etiquetas": ["pescado", "salmón", "horno", "saludable", "salsa"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Lomos de salmón", "categoria": "pescado" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Calabacín", "categoria": "verduras" },
-      { "nombre": "Aceite de oliva", "categoria": "despensa" },
-      { "nombre": "Vinagre de manzana", "categoria": "despensa" },
-      { "nombre": "Miel", "categoria": "despensa" },
-      { "nombre": "Mostaza", "categoria": "salsas" }
+      { "nombre": "Lomos de salmón: 2 unidades.", "categoria": "pescado" },
+      { "nombre": "Zanahoria: 1 unidad (*)", "categoria": "verduras" },
+      { "nombre": "Calabacín: ½ unidad (*)", "categoria": "verduras" },
+      { "nombre": "Aceite de oliva: 3 cucharadas", "categoria": "despensa" },
+      { "nombre": "Vinagre de manzana: 1 cucharada", "categoria": "despensa" },
+      { "nombre": "Miel: 1 cucharada", "categoria": "despensa" },
+      { "nombre": "Mostaza: 1 cucharadita", "categoria": "salsas" }
     ],
-    "instrucciones": "1. Precalienta el horno a 180°C. 2. Corta la zanahoria y el calabacín en bastones finos y ponlos en la base de una fuente de horno. 3. Bate todos los ingredientes de la vinagreta (aceite, vinagre, miel y mostaza). 4. Coloca el salmón sobre las verduras, salpimienta y vierte la vinagreta por encima de todo. 5. Hornea durante 15-20 minutos, dependiendo del grosor del pescado."
+    "instrucciones": "1. [cite_start]Precalienta el horno a 180°C. [cite: 296] 2. [cite_start]Corta la zanahoria y el calabacín en bastones finos y ponlos en la base de una fuente de horno. [cite: 297] 3. [cite_start]Bate todos los ingredientes de la vinagreta (aceite, vinagre, miel y mostaza). [cite: 298] 4. [cite_start]Coloca el salmón sobre las verduras, salpimienta y vierte la vinagreta por encima de todo. [cite: 299, 300] 5. [cite_start]Hornea durante 15-20 minutos, dependiendo del grosor del pescado. [cite: 301]"
   },
   {
     "id": 18,
     "nombre": "Ternera en Salsa de Almendras (Modificada)",
-    "etiquetas": ["ternera", "salsa", "guiso"],
+    "etiquetas": ["carne", "ternera", "guiso", "salsa", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Filetes de ternera finos", "categoria": "carne" },
-      { "nombre": "Setas variadas", "categoria": "verduras" },
-      { "nombre": "Almendras crudas", "categoria": "frutos_secos" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Vino blanco", "categoria": "despensa" },
-      { "nombre": "Caldo de carne", "categoria": "despensa" }
+      { "nombre": "Filetes de ternera finos: 300 g", "categoria": "carne" },
+      { "nombre": "Setas variadas: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Almendras crudas: 50 g", "categoria": "despensa" },
+      { "nombre": "Cebolla: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Ajo: 2 dientes", "categoria": "especias" },
+      { "nombre": "Vino blanco: 100 ml", "categoria": "despensa" },
+      { "nombre": "Caldo de carne: 200 ml", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Fríe las almendras en un poco de aceite y resérvalas. En ese aceite, dora los filetes de ternera y resérvalos. 2. Pocha la cebolla y el ajo picados. Añade las setas y cocina hasta que estén tiernas. 3. Tritura las almendras fritas con el vino y un poco del caldo. 4. Añade la mezcla triturada a la sartén. Incorpora el resto del caldo y deja que la salsa hierva y espese. 5. Añade los filetes a la salsa y cocina todo junto 5 minutos."
+    "instrucciones": "1. Fríe las almendras en un poco de aceite y resérvalas. [cite_start]En ese aceite, dora los filetes de ternera y resérvalos. [cite: 312, 313] 2. Pocha la cebolla y el ajo picados. [cite_start]Añade las setas y cocina hasta que estén tiernas. [cite: 314] 3. [cite_start]Tritura las almendras fritas con el vino y un poco del caldo. [cite: 315] 4. Añade la mezcla triturada a la sartén. [cite_start]Incorpora el resto del caldo y deja que la salsa hierva y espese. [cite: 316] 5. [cite_start]Añade los filetes a la salsa y cocina todo junto 5 minutos. [cite: 317]"
   },
   {
     "id": 19,
     "nombre": "Ternera Frita con Champiñones y Arroz",
-    "etiquetas": ["ternera", "arroz", "frito"],
+    "etiquetas": ["carne", "ternera", "salteado", "asiático", "arroz"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Filete de ternera", "categoria": "carne" },
-      { "nombre": "Arroz basmati", "categoria": "despensa" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Jengibre fresco", "categoria": "especias" },
-      { "nombre": "Salsa de soja", "categoria": "salsas" },
-      { "nombre": "Harina de trigo", "categoria": "despensa" },
-      { "nombre": "Azúcar", "categoria": "despensa" },
+      { "nombre": "Filete de ternera: 250 g", "categoria": "carne" },
+      { "nombre": "Arroz basmati: 150 g", "categoria": "despensa" },
+      { "nombre": "Champiñones: 200 g", "categoria": "verduras" },
+      { "nombre": "Cebolla: 1½ unidad", "categoria": "verduras" },
+      { "nombre": "Ajo: 1 diente", "categoria": "especias" },
+      { "nombre": "Jengibre fresco: un trocito", "categoria": "especias" },
+      { "nombre": "Salsa de soja: 3 cucharadas", "categoria": "salsas" },
+      { "nombre": "Harina de trigo: 20 g", "categoria": "despensa" },
+      { "nombre": "Azúcar: 2 cucharaditas", "categoria": "despensa" },
       { "nombre": "Aceite", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Cuece el arroz. Corta la ternera en tiras. Pica la cebolla, el ajo y el jengibre. Lamina los champiñones. 2. En un wok, saltea las tiras de ternera hasta que se doren. Retira y reserva. 3. Saltea la cebolla y los champiñones. Retira junto a la ternera. 4. En la sartén vacía, tuesta la harina un minuto. Añade la salsa de soja, 150 ml de agua y el azúcar. Remueve hasta que hierva y espese. 5. Añade el ajo y el jengibre rallados. 6. Incorpora la ternera y las verduras. Cocina todo junto 1 minuto y sirve sobre el arroz."
+    "instrucciones": "1. Cuece el arroz. Corta la ternera en tiras. Pica la cebolla, el ajo y el jengibre. [cite_start]Lamina los champiñones. [cite: 334] 2. En un wok, saltea las tiras de ternera hasta que se doren. [cite_start]Retira y reserva. [cite: 335] 3. Saltea la cebolla y los champiñones. [cite_start]Retira junto a la ternera. [cite: 336] 4. En la sartén vacía, tuesta la harina un minuto. Añade la salsa de soja, 150 ml de agua y el azúcar. [cite_start]Remueve hasta que hierva y espese. [cite: 337, 338] 5. [cite_start]Añade el ajo y el jengibre rallados. [cite: 339] 6. Incorpora la ternera y las verduras. [cite_start]Cocina todo junto 1 minuto y sirve sobre el arroz. [cite: 340]"
   },
   {
     "id": 20,
     "nombre": "Pasta Boloñesa con Verduras (Modificada)",
-    "etiquetas": ["pasta", "carne", "guiso", "tradicional"],
+    "etiquetas": ["pasta", "carne", "tradicional", "batch-cooking"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pasta", "categoria": "despensa" },
-      { "nombre": "Carne picada", "categoria": "carne" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Calabacín", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Salsa de tomate", "categoria": "despensa" },
+      { "nombre": "Pasta: 180-200 g", "categoria": "despensa" },
+      { "nombre": "Carne picada: 250 g", "categoria": "carne" },
+      { "nombre": "Cebolla: ½ unidad", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Calabacín: ½ unidad", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g, muy picados (*)", "categoria": "verduras" },
+      { "nombre": "Salsa de tomate: 400 g", "categoria": "salsas" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Cuece la pasta. 2. Pica y sofríe la cebolla, zanahoria, calabacín y champiñones. 3. Añade la carne picada, salpimenta y cocínala hasta que esté dorada. 4. Vierte la salsa de tomate y reduce a fuego lento durante 15 minutos. 5. Mezcla la pasta con la salsa antes de servir."
+    "instrucciones": "1. [cite_start]Cuece la pasta. [cite: 354] 2. [cite_start]Pica y sofríe la cebolla, zanahoria, calabacín y champiñones. [cite: 355] 3. [cite_start]Añade la carne picada, salpimenta y cocínala hasta que esté dorada. [cite: 356] 4. [cite_start]Vierte la salsa de tomate y reduce a fuego lento durante 15 minutos. [cite: 357] 5. [cite_start]Mezcla la pasta con la salsa antes de servir. [cite: 358]"
   },
   {
     "id": 21,
     "nombre": "Ternera con Calabacín, Zanahoria y Salsa de Soja",
-    "etiquetas": ["ternera", "saludable", "asiático"],
+    "etiquetas": ["carne", "ternera", "salteado", "asiático", "arroz"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Chuleta de aguja de ternera", "categoria": "carne" },
-      { "nombre": "Arroz basmati cocido", "categoria": "despensa" },
-      { "nombre": "Calabacín", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
-      { "nombre": "Salsa de soja", "categoria": "salsas" },
-      { "nombre": "Azúcar", "categoria": "despensa" },
+      { "nombre": "Chuleta de aguja de ternera: 250 g", "categoria": "carne" },
+      { "nombre": "Arroz basmati cocido: 2 raciones", "categoria": "despensa" },
+      { "nombre": "Calabacín: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Puerro: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Salsa de soja: 4-5 cucharadas", "categoria": "salsas" },
+      { "nombre": "Azúcar: 1 cucharadita", "categoria": "despensa" },
       { "nombre": "Aceite de girasol", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Corta la ternera en dados. Marina en un bol con 2 cucharadas de salsa de soja y el azúcar. 2. Corta el calabacín y la zanahoria en dados. Pica el puerro fino. 3. Saltea el calabacín a fuego fuerte hasta dorar. Retira. Saltea la zanahoria. Retira. 4. Pocha el puerro, sube el fuego y añade la ternera. Cocínala rápidamente. 5. Incorpora las verduras, el arroz cocido y el resto de la salsa de soja. Mezcla todo bien."
+    "instrucciones": "1. Corta la ternera en dados. [cite_start]Marina en un bol con 2 cucharadas de salsa de soja y el azúcar. [cite: 370] 2. Corta el calabacín y la zanahoria en dados. [cite_start]Pica el puerro fino. [cite: 371] 3. Saltea el calabacín a fuego fuerte hasta dorar. Retira. Saltea la zanahoria. [cite_start]Retira. [cite: 372] 4. Pocha el puerro, sube el fuego y añade la ternera. [cite_start]Cocínala rápidamente. [cite: 373] 5. Incorpora las verduras, el arroz cocido y el resto de la salsa de soja. [cite_start]Mezcla todo bien. [cite: 374]"
   },
   {
     "id": 22,
     "nombre": "Bocadillo de Pollo, Alioli, Tomate y Bacon (Ajustado)",
-    "etiquetas": ["bocadillo", "pollo", "rápido", "cena"],
+    "etiquetas": ["bocadillo", "pollo", "bacon", "rápido", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pan de bocadillo", "categoria": "pan" },
-      { "nombre": "Filetes de pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Bacon", "categoria": "embutidos" },
-      { "nombre": "Queso en lonchas", "categoria": "lacteos" },
-      { "nombre": "Tomate", "categoria": "verduras" },
-      { "nombre": "Alioli", "categoria": "salsas" },
-      { "nombre": "Rúcula", "categoria": "verduras" },
+      { "nombre": "Pan de bocadillo: 2 unidades", "categoria": "despensa" },
+      { "nombre": "Filetes de pechuga de pollo: 2 unidades", "categoria": "aves" },
+      { "nombre": "Bacon: 4-6 lonchas", "categoria": "embutidos" },
+      { "nombre": "Queso en lonchas: 2-4 lonchas", "categoria": "lacteos" },
+      { "nombre": "Tomate: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Alioli: al gusto", "categoria": "salsas" },
+      { "nombre": "Rúcula: un puñado", "categoria": "verduras" },
       { "nombre": "Ajo en polvo", "categoria": "especias" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Sazona los filetes de pollo y cocínalos a la plancha. 2. En la misma sartén, fríe el bacon hasta que esté crujiente. 3. Abre los panes y úntalos generosamente con alioli. 4. Monta los bocadillos con el pollo, el bacon, el queso, rodajas de tomate y la rúcula."
+    "instrucciones": "1. [cite_start]Sazona los filetes de pollo y cocínalos a la plancha. [cite: 388] 2. [cite_start]En la misma sartén, fríe el bacon hasta que esté crujiente. [cite: 389] 3. [cite_start]Abre los panes y úntalos generosamente con alioli. [cite: 390] 4. [cite_start]Monta los bocadillos con el pollo, el bacon, el queso, rodajas de tomate y la rúcula. [cite: 391, 392]"
   },
   {
     "id": 23,
@@ -397,17 +397,17 @@
     "etiquetas": ["hamburguesa", "carne", "rápido", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Panes de hamburguesa", "categoria": "pan" },
-      { "nombre": "Carne para hamburguesa", "categoria": "carne" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Queso", "categoria": "lacteos" },
-      { "nombre": "Bacon", "categoria": "embutidos" },
-      { "nombre": "Huevos", "categoria": "huevos" },
-      { "nombre": "Cebolla caramelizada", "categoria": "verduras" },
+      { "nombre": "Panes de hamburguesa: 2 unidades", "categoria": "despensa" },
+      { "nombre": "Carne para hamburguesa: 2 unidades", "categoria": "carne" },
+      { "nombre": "Champiñones: 100 g (*)", "categoria": "verduras" },
+      { "nombre": "Queso: 2-4 lonchas", "categoria": "lacteos" },
+      { "nombre": "Bacon: 4 lonchas", "categoria": "embutidos" },
+      { "nombre": "Huevos: 2 unidades", "categoria": "huevos" },
+      { "nombre": "Cebolla caramelizada: 2-4 cucharadas (opcional)", "categoria": "verduras" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Saltea los champiñones laminados. Reserva. 2. Cocina las hamburguesas a la plancha, poniendo el queso encima al final para que se funda. 3. Fríe el bacon y los huevos. 4. Tuesta los panes y monta las hamburguesas con todos los ingredientes."
+    "instrucciones": "1. Saltea los champiñones laminados. [cite_start]Reserva. [cite: 405] 2. [cite_start]Cocina las hamburguesas a la plancha, poniendo el queso encima al final para que se funda. [cite: 406] 3. [cite_start]Fríe el bacon y los huevos. [cite: 407] 4. [cite_start]Tuesta los panes y monta las hamburguesas con todos los ingredientes. [cite: 408]"
   },
   {
     "id": 24,
@@ -415,16 +415,16 @@
     "etiquetas": ["pizza", "horno", "italiano", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Bases de pizza individuales", "categoria": "despensa" },
-      { "nombre": "Champiñones frescos", "categoria": "verduras" },
-      { "nombre": "Salsa de tomate", "categoria": "despensa" },
-      { "nombre": "Queso mozzarella rallado", "categoria": "lacteos" },
-      { "nombre": "Chorizo en rodajas", "categoria": "embutidos" },
-      { "nombre": "Jamón en lonchas", "categoria": "embutidos" },
-      { "nombre": "Bacon en tiras", "categoria": "embutidos" },
+      { "nombre": "Bases de pizza individuales: 2 unidades", "categoria": "despensa" },
+      { "nombre": "Champiñones frescos: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Salsa de tomate: 6-8 cucharadas", "categoria": "salsas" },
+      { "nombre": "Queso mozzarella rallado: 200-250 g", "categoria": "lacteos" },
+      { "nombre": "Chorizo en rodajas: al gusto", "categoria": "embutidos" },
+      { "nombre": "Jamón en lonchas: al gusto", "categoria": "embutidos" },
+      { "nombre": "Bacon en tiras: al gusto", "categoria": "embutidos" },
       { "nombre": "Orégano", "categoria": "especias" }
     ],
-    "instrucciones": "1. Precalienta el horno a 220°C. 2. Extiende la salsa sobre las bases y cubre con mozzarella y orégano. 3. Distribuye el resto de ingredientes, incluyendo los champiñones laminados. 4. Hornea durante 10-15 minutos."
+    "instrucciones": "1. [cite_start]Precalienta el horno a 220°C. [cite: 420] 2. [cite_start]Extiende la salsa sobre las bases y cubre con mozzarella y orégano. [cite: 421] 3. Distribuye el resto de ingredientes, incluyendo los champiñones laminados. 4. [cite_start]Hornea durante 10-15 minutos. [cite: 422]"
   },
   {
     "id": 25,
@@ -432,113 +432,113 @@
     "etiquetas": ["pollo", "frito", "tradicional", "niños"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pechuga de pollo", "categoria": "aves" },
-      { "nombre": "Huevo", "categoria": "huevos" },
+      { "nombre": "Pechuga de pollo: 1 entera (2 filetes)", "categoria": "aves" },
+      { "nombre": "Huevo: 1", "categoria": "huevos" },
       { "nombre": "Pan rallado", "categoria": "despensa" },
-      { "nombre": "Patatas", "categoria": "verduras" },
+      { "nombre": "Patatas: 2 grandes", "categoria": "verduras" },
       { "nombre": "Aceite para freir", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pela, corta y fríe las patatas. Sazona. 2. Corta, sazona y reboza el pollo (pasando por huevo y pan rallado). 3. Fríe el pollo en aceite caliente hasta que esté dorado. 4. Sirve el pollo rebozado con las patatas fritas."
+    "instrucciones": "1. Pela, corta y fríe las patatas. [cite_start]Sazona. [cite: 433] 2. [cite_start]Corta, sazona y reboza el pollo (pasando por huevo y pan rallado). [cite: 434] 3. [cite_start]Fríe el pollo en aceite caliente hasta que esté dorado. [cite: 435] 4. [cite_start]Sirve el pollo rebozado con las patatas fritas. [cite: 436]"
   },
   {
     "id": 26,
     "nombre": "Albóndigas en Salsa de Tomate (Modificada)",
-    "etiquetas": ["carne", "guiso", "tradicional"],
+    "etiquetas": ["carne", "guiso", "tradicional", "batch-cooking"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Albóndigas", "categoria": "carne" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Salsa de tomate", "categoria": "despensa" },
-      { "nombre": "Orégano seco", "categoria": "especias" },
+      { "nombre": "Albóndigas: 12-16 unidades", "categoria": "carne" },
+      { "nombre": "Zanahoria: 1 unidad, muy picada (*)", "categoria": "verduras" },
+      { "nombre": "Cebolla: ½ unidad", "categoria": "verduras" },
+      { "nombre": "Salsa de tomate: 500 g", "categoria": "salsas" },
+      { "nombre": "Orégano seco: 1 cucharadita", "categoria": "especias" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Arroz o pasta para acompañar", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Cocina las albóndigas en la freidora de aire hasta que estén doradas. 2. Mientras, pocha la cebolla y la zanahoria picadas en una cazuela. 3. Añade la salsa de tomate y el orégano. Cocina a fuego lento 10 minutos. 4. Incorpora las albóndigas a la salsa y cocina todo junto 5 minutos más. 5. Sirve con arroz o pasta cocida aparte."
+    "instrucciones": "1. [cite_start]Cocina las albóndigas en la freidora de aire hasta que estén doradas. [cite: 448] 2. [cite_start]Mientras, pocha la cebolla y la zanahoria picadas en una cazuela. [cite: 449] 3. Añade la salsa de tomate y el orégano. [cite_start]Cocina a fuego lento 10 minutos. [cite: 450] 4. [cite_start]Incorpora las albóndigas a la salsa y cocina todo junto 5 minutos más. [cite: 451] 5. [cite_start]Sirve con arroz o pasta cocida aparte. [cite: 452]"
   },
   {
     "id": 27,
     "nombre": "Pavo al Ajillo con Pasta Integral (Modificada)",
-    "etiquetas": ["pavo", "pasta", "ajo", "rápido"],
+    "etiquetas": ["pasta", "pavo", "ajo", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Dados de pechuga de pavo", "categoria": "aves" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Vino blanco", "categoria": "despensa" },
-      { "nombre": "Pasta integral", "categoria": "despensa" },
+      { "nombre": "Dados de pechuga de pavo: 300 g", "categoria": "aves" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Ajo: 3-4 dientes", "categoria": "especias" },
+      { "nombre": "Vino blanco: 100 ml", "categoria": "despensa" },
+      { "nombre": "Pasta integral: 180-200 g", "categoria": "despensa" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" },
       { "nombre": "Perejil fresco", "categoria": "especias" }
     ],
-    "instrucciones": "1. Cuece la pasta. 2. Dora los ajos laminados en una sartén. Añade los champiñones laminados y saltea. 3. Sube el fuego, añade el pavo salpimentado y dóralo. 4. Vierte el vino y deja que reduzca hasta formar una salsa. 5. Añade la pasta escurrida, mezcla todo bien y espolvorea perejil picado."
+    "instrucciones": "1. [cite_start]Cuece la pasta. [cite: 464] 2. Dora los ajos laminados en una sartén. [cite_start]Añade los champiñones laminados y saltea. [cite: 465, 466] 3. [cite_start]Sube el fuego, añade el pavo salpimentado y dóralo. [cite: 467] 4. [cite_start]Vierte el vino y deja que reduzca hasta formar una salsa. [cite: 468] 5. [cite_start]Añade la pasta escurrida, mezcla todo bien y espolvorea perejil picado. [cite: 469]"
   },
   {
     "id": 28,
     "nombre": "Pollo al Ajillo (Receta del vídeo) (Modificada)",
-    "etiquetas": ["pollo", "guiso", "tradicional", "ajo"],
+    "etiquetas": ["pollo", "ajo", "guiso", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Presas de pollo", "categoria": "aves" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Mantequilla", "categoria": "lacteos" },
-      { "nombre": "Ajo", "categoria": "especias" },
+      { "nombre": "Presas de pollo: 4 unidades", "categoria": "aves" },
+      { "nombre": "Champiñones: 200 g (*)", "categoria": "verduras" },
+      { "nombre": "Mantequilla: 50 g", "categoria": "lacteos" },
+      { "nombre": "Ajo: 5-6 dientes", "categoria": "especias" },
       { "nombre": "Perejil fresco picado", "categoria": "especias" },
-      { "nombre": "Paprika (pimentón dulce)", "categoria": "especias" },
-      { "nombre": "Vino blanco o agua", "categoria": "despensa" },
+      { "nombre": "Paprika (pimentón dulce): 1 cucharada", "categoria": "especias" },
+      { "nombre": "Vino blanco o agua: 50 ml", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta negra", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Sazona el pollo con sal, pimienta y paprika. Prepara una pasta mezclando la mantequilla con el ajo y el perejil picados. 2. Dora el pollo en una sartén caliente. Retira. En la misma sartén, saltea los champiñones. 3. Vuelve a poner el pollo en la sartén, úntalo con la mantequilla de ajo, añade los champiñones alrededor y vierte el vino. 4. Tapa, baja el fuego al mínimo y cocina lentamente durante 20-25 minutos."
+    "instrucciones": "1. Sazona el pollo con sal, pimienta y paprika. [cite_start]Prepara una pasta mezclando la mantequilla con el ajo y el perejil picados. [cite: 482] 2. Dora el pollo en una sartén caliente. Retira. [cite_start]En la misma sartén, saltea los champiñones. [cite: 483] 3. [cite_start]Vuelve a poner el pollo en la sartén, úntalo con la mantequilla de ajo, añade los champiñones alrededor y vierte el vino. [cite: 484] 4. [cite_start]Tapa, baja el fuego al mínimo y cocina lentamente durante 20-25 minutos. [cite: 485]"
   },
   {
     "id": 29,
     "nombre": "Delicias de Pollo con Champiñones Salteados",
-    "etiquetas": ["pollo", "rápido"],
+    "etiquetas": ["pollo", "rápido", "freidora de aire", "cena"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Delicias de pollo", "categoria": "aves" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
+      { "nombre": "Delicias de pollo: 250 g", "categoria": "aves" },
+      { "nombre": "Champiñones: 250 g", "categoria": "verduras" },
+      { "nombre": "Puerro: 1 unidad", "categoria": "verduras" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Cocina las delicias de pollo en la freidora de aire hasta que estén crujientes. 2. Mientras, pocha el puerro en rodajas en una sartén. 3. Añade los champiñones laminados, sazona y saltéalos hasta que se doren. 4. Sirve las delicias de pollo acompañadas del salteado."
+    "instrucciones": "1. [cite_start]Cocina las delicias de pollo en la freidora de aire hasta que estén crujientes. [cite: 494] 2. [cite_start]Mientras, pocha el puerro en rodajas en una sartén. [cite: 495] 3. [cite_start]Añade los champiñones laminados, sazona y saltéalos hasta que se doren. [cite: 496] 4. [cite_start]Sirve las delicias de pollo acompañadas del salteado. [cite: 497]"
   },
   {
     "id": 30,
     "nombre": "Salmón con Salteado de Setas (Modificada)",
-    "etiquetas": ["pescado", "salmón", "rápido", "saludable"],
+    "etiquetas": ["pescado", "salmón", "setas", "saludable", "plancha"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Lomos de salmón", "categoria": "pescado" },
-      { "nombre": "Setas variadas", "categoria": "verduras" },
-      { "nombre": "Calabacín", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
-      { "nombre": "Ajo", "categoria": "especias" },
+      { "nombre": "Lomos de salmón: 2 unidades", "categoria": "pescado" },
+      { "nombre": "Setas variadas: 300 g", "categoria": "verduras" },
+      { "nombre": "Calabacín: ½ unidad (*)", "categoria": "verduras" },
+      { "nombre": "Puerro: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Ajo: 2 dientes", "categoria": "especias" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pica el puerro y el calabacín. Saltéalos en una sartén. Añade las setas y cocina hasta que estén hechas. 2. Sazona y cocina el salmón a la plancha con ajo laminado. 3. Sirve los lomos de salmón con el salteado de verduras y setas."
+    "instrucciones": "1. Pica el puerro y el calabacín. Saltéalos en una sartén. [cite_start]Añade las setas y cocina hasta que estén hechas. [cite: 509] 2. [cite_start]Sazona y cocina el salmón a la plancha con ajo laminado. [cite: 510] 3. [cite_start]Sirve los lomos de salmón con el salteado de verduras y setas. [cite: 511]"
   },
   {
     "id": 31,
     "nombre": "Trucha Rellena con Patatas",
-    "etiquetas": ["pescado", "trucha", "horno", "frito"],
+    "etiquetas": ["pescado", "trucha", "freidora de aire", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Truchas limpias", "categoria": "pescado" },
-      { "nombre": "Bacon o jamón serrano", "categoria": "embutidos" },
-      { "nombre": "Patatas", "categoria": "verduras" },
+      { "nombre": "Truchas limpias: 2 unidades", "categoria": "pescado" },
+      { "nombre": "Bacon o jamón serrano: 4 lonchas", "categoria": "embutidos" },
+      { "nombre": "Patatas: 2 unidades", "categoria": "verduras" },
       { "nombre": "Aceite", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Pimienta", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pela, corta y cocina las patatas (fritas, al horno o en freidora de aire). 2. Salpimenta el interior de las truchas y rellena cada una con 2 lonchas de bacon o jamón. 3. Cocina las truchas en la freidora de aire a 180°C durante 12-15 minutos. 4. Sirve la trucha rellena acompañada de las patatas."
+    "instrucciones": "1. [cite_start]Pela, corta y cocina las patatas (fritas, al horno o en freidora de aire). [cite: 522] 2. [cite_start]Salpimenta el interior de las truchas y rellena cada una con 2 lonchas de bacon o jamón. [cite: 523] 3. [cite_start]Cocina las truchas en la freidora de aire a 180°C durante 12-15 minutos. [cite: 524] 4. [cite_start]Sirve la trucha rellena acompañada de las patatas. [cite: 525]"
   },
   {
     "id": 32,
@@ -546,88 +546,87 @@
     "etiquetas": ["pescado", "jurel", "horno", "saludable"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Jureles", "categoria": "pescado" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Tomate", "categoria": "verduras" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Patatas", "categoria": "verduras" },
-      { "nombre": "Vino blanco", "categoria": "despensa" },
-      { "nombre": "Pimentón dulce", "categoria": "especias" },
+      { "nombre": "Jureles: 2 unidades", "categoria": "pescado" },
+      { "nombre": "Zanahoria: 1 unidad (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Tomate: 1 grande", "categoria": "verduras" },
+      { "nombre": "Cebolla: 1 grande", "categoria": "verduras" },
+      { "nombre": "Patatas: 2 medianas", "categoria": "verduras" },
+      { "nombre": "Vino blanco: 100 ml", "categoria": "despensa" },
+      { "nombre": "Pimentón dulce: 1 cucharadita", "categoria": "especias" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Precalienta el horno a 190°C. 2. Crea una base en una bandeja de horno con las patatas, tomate, cebolla, zanahoria y champiñones en rodajas. Riega con aceite y sal. Hornea 15-20 minutos. 3. Saca la bandeja, coloca los jureles sazonados sobre las verduras. Riégalos con el vino blanco y espolvorea el pimentón por encima. 4. Hornea durante 15-20 minutos más, hasta que el pescado esté cocinado."
+    "instrucciones": "1. [cite_start]Precalienta el horno a 190°C. [cite: 539] 2. Crea una base en una bandeja de horno con las patatas, tomate, cebolla, zanahoria y champiñones en rodajas. Riega con aceite y sal. [cite_start]Hornea 15-20 minutos. [cite: 540, 541] 3. Saca la bandeja, coloca los jureles sazonados sobre las verduras. [cite_start]Riégalos con el vino blanco y espolvorea el pimentón por encima. [cite: 542, 543] 4. [cite_start]Hornea durante 15-20 minutos más, hasta que el pescado esté cocinado. [cite: 544]"
   },
   {
     "id": 33,
     "nombre": "Caballa a la Plancha con Patatas Fritas",
-    "etiquetas": ["pescado", "caballa", "rápido", "plancha"],
+    "etiquetas": ["pescado", "caballa", "plancha", "rápido"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Caballas en filetes", "categoria": "pescado" },
-      { "nombre": "Ajo", "categoria": "especias" },
-      { "nombre": "Patatas", "categoria": "verduras" },
+      { "nombre": "Caballas en filetes: 2 unidades", "categoria": "pescado" },
+      { "nombre": "Ajo: 2-3 dientes", "categoria": "especias" },
+      { "nombre": "Patatas: 2 grandes", "categoria": "verduras" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" },
       { "nombre": "Perejil fresco", "categoria": "especias" }
     ],
-    "instrucciones": "1. Prepara las patatas fritas. 2. Pica el ajo muy fino. 3. Calienta una plancha y cocina los filetes de caballa, primero por el lado de la piel. 4. Justo antes de retirarlos, añade el ajo picado y un poco de perejil para que se doren ligeramente. 5. Sirve la caballa inmediatamente con las patatas fritas."
+    "instrucciones": "1. [cite_start]Prepara las patatas fritas. [cite: 554] 2. [cite_start]Pica el ajo muy fino. [cite: 555] 3. [cite_start]Calienta una plancha y cocina los filetes de caballa, primero por el lado de la piel. [cite: 556] 4. [cite_start]Justo antes de retirarlos, añade el ajo picado y un poco de perejil para que se doren ligeramente. [cite: 557] 5. [cite_start]Sirve la caballa inmediatamente con las patatas fritas. [cite: 558]"
   },
   {
     "id": 34,
     "nombre": "Lentejas con Chorizo y Panceta (Modificada)",
-    "etiquetas": ["legumbres", "cuchara", "guiso", "tradicional"],
+    "etiquetas": ["legumbres", "cuchara", "tradicional", "guiso", "batch-cooking"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Lentejas pardinas", "categoria": "legumbres" },
-      { "nombre": "Setas o champiñones", "categoria": "verduras" },
-      { "nombre": "Panceta curada", "categoria": "embutidos" },
-      { "nombre": "Chorizo para guisar", "categoria": "embutidos" },
-      { "nombre": "Cebolla", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
-      { "nombre": "Tomate frito", "categoria": "despensa" },
-      { "nombre": "Hoja de laurel", "categoria": "especias" },
+      { "nombre": "Lentejas pardinas: 180 g", "categoria": "legumbres" },
+      { "nombre": "Setas o champiñones: 100 g (*)", "categoria": "verduras" },
+      { "nombre": "Panceta curada: 80 g", "categoria": "embutidos" },
+      { "nombre": "Chorizo para guisar: 1 unidad", "categoria": "embutidos" },
+      { "nombre": "Cebolla: 1½ unidad", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Puerro: 1½ unidad", "categoria": "verduras" },
+      { "nombre": "Tomate frito: 2 cucharadas", "categoria": "salsas" },
+      { "nombre": "Hoja de laurel: 1", "categoria": "especias" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pica y sofríe la cebolla, el puerro y la zanahoria. Añade las setas y cocina. Incorpora el tomate frito. 2. Corta la panceta en dados y dórala junto a las verduras. 3. Añade las lentejas escurridas, la hoja de laurel y cubre generosamente con agua fría. 4. Lleva a ebullición, añade el chorizo y cocina a fuego lento 45-60 minutos. Sazona al final."
+    "instrucciones": "1. Pica y sofríe la cebolla, el puerro y la zanahoria. Añade las setas y cocina. [cite_start]Incorpora el tomate frito. [cite: 574] 2. [cite_start]Corta la panceta en dados y dórala junto a las verduras. [cite: 575] 3. [cite_start]Añade las lentejas escurridas, la hoja de laurel y cubre generosamente con agua fría. [cite: 576] 4. Lleva a ebullición, añade el chorizo y cocina a fuego lento 45-60 minutos. [cite_start]Sazona al final. [cite: 577]"
   },
   {
     "id": 35,
     "nombre": "Guiso de Arroz con Calamares (Modificada)",
-    "etiquetas": ["arroz", "pescado", "guiso"],
+    "etiquetas": ["arroz", "marisco", "cuchara", "guiso", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Arroz de grano redondo", "categoria": "despensa" },
-      { "nombre": "Calamares", "categoria": "pescado" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
-      { "nombre": "Caldo de pescado", "categoria": "despensa" },
+      { "nombre": "Arroz de grano redondo: 200 g", "categoria": "despensa" },
+      { "nombre": "Calamares: 250 g", "categoria": "pescado" },
+      { "nombre": "Zanahoria: 1 unidad (*)", "categoria": "verduras" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Puerro: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Caldo de pescado: 800 ml aprox.", "categoria": "despensa" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Pocha el puerro. Añade la zanahoria y los champiñones en dados y cocina unos minutos. 2. Añade los calamares y cocínalos un par de minutos. 3. Incorpora el arroz y sofríelo durante un minuto. 4. Vierte el caldo de pescado caliente, sazona y cocina a fuego medio-bajo unos 18 minutos."
+    "instrucciones": "1. Pocha el puerro. [cite_start]Añade la zanahoria y los champiñones en dados y cocina unos minutos. [cite: 590] 2. [cite_start]Añade los calamares y cocínalos un par de minutos. [cite: 591] 3. [cite_start]Incorpora el arroz y sofríelo durante un minuto. [cite: 592] 4. [cite_start]Vierte el caldo de pescado caliente, sazona y cocina a fuego medio-bajo unos 18 minutos. [cite: 593]"
   },
   {
     "id": 36,
     "nombre": "Guiso de Pasta con Carne (Modificada)",
-    "etiquetas": ["pasta", "carne", "guiso"],
+    "etiquetas": ["pasta", "carne", "cuchara", "guiso", "tradicional"],
     "valoracion": 0,
     "ingredientes": [
-      { "nombre": "Pasta corta", "categoria": "despensa" },
-      { "nombre": "Carne picada", "categoria": "carne" },
-      { "nombre": "Champiñones", "categoria": "verduras" },
-      { "nombre": "Zanahoria", "categoria": "verduras" },
-      { "nombre": "Puerro", "categoria": "verduras" },
-      { "nombre": "Tomate triturado", "categoria": "despensa" },
-      { "nombre": "Agua o caldo de carne", "categoria": "despensa" },
+      { "nombre": "Pasta corta: 200 g", "categoria": "despensa" },
+      { "nombre": "Carne picada: 200 g", "categoria": "carne" },
+      { "nombre": "Champiñones: 150 g (*)", "categoria": "verduras" },
+      { "nombre": "Zanahoria: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Puerro: 1 unidad", "categoria": "verduras" },
+      { "nombre": "Tomate triturado: 200 g", "categoria": "salsas" },
+      { "nombre": "Agua o caldo de carne: 800 ml aprox.", "categoria": "despensa" },
       { "nombre": "Aceite de oliva", "categoria": "despensa" },
       { "nombre": "Sal", "categoria": "despensa" }
     ],
-    "instrucciones": "1. Sofríe la zanahoria, el puerro y los champiñones picados. 2. Añade la carne picada y dórala. 3. Incorpora el tomate triturado y sofríe 5 minutos. 4. Añade la pasta directamente a la olla y remueve. 5. Vierte caldo o agua caliente hasta cubrir y cocina hasta que la pasta esté hecha y el guiso tenga la consistencia deseada."
+    "instrucciones": "1. [cite_start]Sofríe la zanahoria, el puerro y los champiñones picados. [cite: 607] 2. [cite_start]Añade la carne picada y dórala. [cite: 608] 3. [cite_start]Incorpora el tomate triturado y sofríe 5 minutos. [cite: 609] 4. [cite_start]Añade la pasta directamente a la olla y remueve. [cite: 610] 5. [cite_start]Vierte caldo o agua caliente hasta cubrir y cocina hasta que la pasta esté hecha y el guiso tenga la consistencia deseada. [cite: 611]"
   }
 ]
-
